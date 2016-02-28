@@ -1,0 +1,4 @@
+com/deepan/bmw/studentinfo/service/StudentInfoServiceImplTest.class
+com/deepan/bmw/studentinfo/service/DataAccessServiceImplTest.class
+com/deepan/bmw/studentinfo/controller/ErrorHandlerTest.class
+com/deepan/bmw/studentinfo/controller/StudentInfoControllerTest.class
